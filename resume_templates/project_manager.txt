@@ -1,0 +1,20 @@
+### project_manager.txt
+Name: {name}
+Email: {email}
+Phone: {phone}
+
+Objective:
+Results-driven Project Manager with {experience} years of experience in {agile}, {scrum}, and {team_management}. Adept at overseeing projects from inception to completion within tight deadlines.
+
+Experience:
+- {job_title} at {company_name}, {years}
+  - Successfully delivered {project} within {timeline}.
+  - Reduced project costs by {percentage}% through efficient resource allocation.
+
+Skills:
+{skills}
+
+Education:
+{degree}, {university}, {year}
+
+---

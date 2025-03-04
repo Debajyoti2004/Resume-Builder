@@ -1,0 +1,20 @@
+### software_engineer.txt
+Name: {name}
+Email: {email}
+Phone: {phone}
+
+Objective:
+A passionate Software Engineer with {experience} years of experience in {key_skills}. Seeking to leverage my expertise in {tech_stack} to contribute effectively to {company_name}.
+
+Experience:
+- {job_title} at {company_name}, {years}
+  - Developed {project} using {technology}.
+  - Optimized {feature} resulting in {impact}.
+
+Skills:
+{skills}
+
+Education:
+{degree}, {university}, {year}
+
+---

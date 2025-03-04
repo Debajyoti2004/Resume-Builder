@@ -1,0 +1,21 @@
+
+### marketing_manager.txt
+Name: {name}
+Email: {email}
+Phone: {phone}
+
+Objective:
+Dynamic Marketing Manager with {experience} years of expertise in {digital_marketing}, {SEO}, and {brand_strategy}. Proven track record in increasing brand visibility and driving revenue growth.
+
+Experience:
+- {job_title} at {company_name}, {years}
+  - Led marketing campaigns that increased engagement by {percentage}%.
+  - Managed a team of {team_size} to execute multi-channel strategies.
+
+Skills:
+{skills}
+
+Education:
+{degree}, {university}, {year}
+
+---

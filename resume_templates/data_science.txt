@@ -1,0 +1,18 @@
+### data_scientist.txt
+Name: {name}
+Email: {email}
+Phone: {phone}
+
+Objective:
+Data Scientist with {experience} years of experience in {machine_learning}, {data_analysis}, and {big_data}. Looking to apply analytical and programming skills to solve complex data-driven challenges.
+
+Experience:
+- {job_title} at {company_name}, {years}
+  - Built predictive models improving {metric} by {percentage}%.
+  - Designed data pipelines using {tech_stack}.
+
+Skills:
+{skills}
+
+Education:
+{degree}, {university}, {year}
