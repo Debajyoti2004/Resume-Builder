@@ -42,6 +42,7 @@ def compile_workflow():
     workflow.add_edge("transform_query", "retrieve")
     workflow.add_edge("generate", "additional generation")
     workflow.add_edge("additional generation", "json_result")
+    workflow.add_edge("json_result",END)
 
     return workflow.compile()
 
