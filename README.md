@@ -12,6 +12,6 @@ The **AI-Powered Resume Builder** is an intelligent web application designed to 
 - **User-Friendly Interface**: Clean and intuitive design using Streamlit for seamless interaction.  
 - **Error Handling**: Ensures smooth user experience with robust input validation and error management.
 
-## Demo Vedio
+## Demo Video
 - https://github.com/user-attachments/assets/655c8470-275e-4fac-b33e-5145ebef77e3
 
